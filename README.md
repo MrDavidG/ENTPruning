@@ -1,6 +1,6 @@
 # Rethinking Pruning for Accelerating Deep Inference At the Edge
 
-This repository contains code of the paper, [Rethinking Pruning for Accelerating Deep Inference At the Edge (Gao et al., KDD 2020)](https://dl.acm.org/doi/abs/10.1145/3394486.3403058). It includes code for training and pruning models with VIBNet and MNP methods in Automatic Speech Recognition(ASR) and Neural Entity Recognition(NER) applications.
+This repository contains code of the paper, [Rethinking Pruning for Accelerating Deep Inference At the Edge (Gao et al., KDD 2020)](https://dl.acm.org/doi/abs/10.1145/3394486.3403058). It includes code for training and pruning models with VIBNet and MNP methods in Automatic Speech Recognition(ASR) and Named Entity Recognition(NER) applications.
 
 
 
